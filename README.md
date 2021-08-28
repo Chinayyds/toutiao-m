@@ -1,4 +1,4 @@
-# take-out-app
+# toutiao-app
 
 ## Project setup
 ```
